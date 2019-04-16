@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+}
+
+.podcast-wrapper img:hover {
+    opacity: 0;
+    height: 0;
+}
+
+.hidden-text {
+    opacity: 0;
+}
+
+.hidden-text:hover {
+    opacity: 100;
+}
+
